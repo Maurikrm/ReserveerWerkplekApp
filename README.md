@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to ReserveerWerkplekApp page
 
-You can use the [editor on GitHub](https://github.com/Maurikrm/ReserveerWerkplekApp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use this PowerApps app for for **free**!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+During the Covid-19 crisis a lot of organisation were struggling with the question how to manage the amount of employees coming to the office and how to organize it and most important how to make sure everybody is feeling save.
 
-### Markdown
+There I have build a PowerApp which can be used to reserve a desk at the office.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Instructions
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Maurikrm/ReserveerWerkplekApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Download all files and follow the instructions as described in the documentation
